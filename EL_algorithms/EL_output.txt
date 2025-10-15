@@ -1,0 +1,230 @@
+Generation 1 | Best MCC: 0.3335
+Generation 2 | Best MCC: 0.3455
+Generation 3 | Best MCC: 0.3455
+Generation 4 | Best MCC: 0.3521
+Generation 5 | Best MCC: 0.3521
+Generation 6 | Best MCC: 0.3521
+Generation 7 | Best MCC: 0.3603
+Generation 8 | Best MCC: 0.3603
+Generation 9 | Best MCC: 0.3603
+Generation 10 | Best MCC: 0.3603
+Generation 11 | Best MCC: 0.3603
+Generation 12 | Best MCC: 0.3603
+Generation 13 | Best MCC: 0.3603
+Generation 14 | Best MCC: 0.3603
+Generation 15 | Best MCC: 0.3603
+Generation 16 | Best MCC: 0.3603
+Generation 17 | Best MCC: 0.3603
+Generation 18 | Best MCC: 0.3603
+Generation 19 | Best MCC: 0.3603
+Generation 20 | Best MCC: 0.3603
+Generation 21 | Best MCC: 0.3603
+Generation 22 | Best MCC: 0.3603
+Generation 23 | Best MCC: 0.3603
+Generation 24 | Best MCC: 0.3603
+Generation 25 | Best MCC: 0.3603
+Generation 26 | Best MCC: 0.3603
+Generation 27 | Best MCC: 0.4366
+Generation 28 | Best MCC: 0.4366
+Generation 29 | Best MCC: 0.4366
+Generation 30 | Best MCC: 0.4366
+Generation 31 | Best MCC: 0.4366
+Generation 32 | Best MCC: 0.4366
+Generation 33 | Best MCC: 0.4366
+Generation 34 | Best MCC: 0.4366
+Generation 35 | Best MCC: 0.4366
+Generation 36 | Best MCC: 0.4366
+Generation 37 | Best MCC: 0.4366
+Generation 38 | Best MCC: 0.4366
+Generation 39 | Best MCC: 0.4366
+Generation 40 | Best MCC: 0.4366
+Generation 41 | Best MCC: 0.4366
+Generation 42 | Best MCC: 0.4366
+Generation 43 | Best MCC: 0.4366
+Generation 44 | Best MCC: 0.4366
+Generation 45 | Best MCC: 0.4366
+Generation 46 | Best MCC: 0.4366
+Generation 47 | Best MCC: 0.4366
+Generation 48 | Best MCC: 0.4366
+Generation 49 | Best MCC: 0.4366
+Generation 50 | Best MCC: 0.4366
+Generation 51 | Best MCC: 0.4366
+Generation 52 | Best MCC: 0.4366
+Generation 53 | Best MCC: 0.4366
+Generation 54 | Best MCC: 0.4366
+Generation 55 | Best MCC: 0.4366
+Generation 56 | Best MCC: 0.4366
+Generation 57 | Best MCC: 0.4366
+Generation 58 | Best MCC: 0.4366
+Generation 59 | Best MCC: 0.4366
+Generation 60 | Best MCC: 0.4366
+Generation 61 | Best MCC: 0.4366
+Generation 62 | Best MCC: 0.4366
+Generation 63 | Best MCC: 0.4366
+Generation 64 | Best MCC: 0.4366
+Generation 65 | Best MCC: 0.4366
+Generation 66 | Best MCC: 0.4366
+Generation 67 | Best MCC: 0.4366
+Generation 68 | Best MCC: 0.4366
+Generation 69 | Best MCC: 0.4366
+Generation 70 | Best MCC: 0.4366
+Generation 71 | Best MCC: 0.4366
+Generation 72 | Best MCC: 0.4366
+Generation 73 | Best MCC: 0.4366
+Generation 74 | Best MCC: 0.4366
+Generation 75 | Best MCC: 0.4366
+Generation 76 | Best MCC: 0.4366
+Generation 77 | Best MCC: 0.4366
+Generation 78 | Best MCC: 0.4366
+Generation 79 | Best MCC: 0.4366
+Generation 80 | Best MCC: 0.4366
+Generation 81 | Best MCC: 0.4366
+Generation 82 | Best MCC: 0.4366
+Generation 83 | Best MCC: 0.4366
+Generation 84 | Best MCC: 0.4366
+Generation 85 | Best MCC: 0.4366
+Generation 86 | Best MCC: 0.4446
+Generation 87 | Best MCC: 0.4446
+Generation 88 | Best MCC: 0.4446
+Generation 89 | Best MCC: 0.4446
+Generation 90 | Best MCC: 0.4446
+Generation 91 | Best MCC: 0.4446
+Generation 92 | Best MCC: 0.4446
+Generation 93 | Best MCC: 0.4446
+Generation 94 | Best MCC: 0.4446
+Generation 95 | Best MCC: 0.4446
+Generation 96 | Best MCC: 0.4446
+Generation 97 | Best MCC: 0.4446
+Generation 98 | Best MCC: 0.4446
+Generation 99 | Best MCC: 0.4446
+Generation 100 | Best MCC: 0.4446
+Generation 101 | Best MCC: 0.4446
+Generation 102 | Best MCC: 0.4446
+Generation 103 | Best MCC: 0.4446
+Generation 104 | Best MCC: 0.4446
+Generation 105 | Best MCC: 0.4446
+Generation 106 | Best MCC: 0.4446
+Generation 107 | Best MCC: 0.4446
+Generation 108 | Best MCC: 0.4446
+Generation 109 | Best MCC: 0.4446
+Generation 110 | Best MCC: 0.4446
+Generation 111 | Best MCC: 0.4446
+Generation 112 | Best MCC: 0.4446
+Generation 113 | Best MCC: 0.4446
+Generation 114 | Best MCC: 0.4446
+Generation 115 | Best MCC: 0.4446
+Generation 116 | Best MCC: 0.4446
+Generation 117 | Best MCC: 0.4446
+Generation 118 | Best MCC: 0.4446
+Generation 119 | Best MCC: 0.4446
+Generation 120 | Best MCC: 0.4446
+Generation 121 | Best MCC: 0.4446
+Generation 122 | Best MCC: 0.4446
+Generation 123 | Best MCC: 0.4446
+Generation 124 | Best MCC: 0.4446
+Generation 125 | Best MCC: 0.4446
+Generation 126 | Best MCC: 0.4446
+Generation 127 | Best MCC: 0.4446
+Generation 128 | Best MCC: 0.4446
+Generation 129 | Best MCC: 0.4446
+Generation 130 | Best MCC: 0.4446
+Generation 131 | Best MCC: 0.4446
+Generation 132 | Best MCC: 0.4446
+Generation 133 | Best MCC: 0.4446
+Generation 134 | Best MCC: 0.4446
+Generation 135 | Best MCC: 0.4446
+Generation 136 | Best MCC: 0.4446
+Generation 137 | Best MCC: 0.4446
+Generation 138 | Best MCC: 0.4446
+Generation 139 | Best MCC: 0.4446
+Generation 140 | Best MCC: 0.4446
+Generation 141 | Best MCC: 0.4446
+Generation 142 | Best MCC: 0.4446
+Generation 143 | Best MCC: 0.4446
+Generation 144 | Best MCC: 0.4446
+Generation 145 | Best MCC: 0.4446
+Generation 146 | Best MCC: 0.4446
+Generation 147 | Best MCC: 0.4446
+Generation 148 | Best MCC: 0.4446
+Generation 149 | Best MCC: 0.4446
+Generation 150 | Best MCC: 0.4446
+Generation 151 | Best MCC: 0.4446
+Generation 152 | Best MCC: 0.4446
+Generation 153 | Best MCC: 0.4446
+Generation 154 | Best MCC: 0.4446
+Generation 155 | Best MCC: 0.4446
+Generation 156 | Best MCC: 0.4446
+Generation 157 | Best MCC: 0.4446
+Generation 158 | Best MCC: 0.4446
+Generation 159 | Best MCC: 0.4446
+Generation 160 | Best MCC: 0.4446
+Generation 161 | Best MCC: 0.4446
+Generation 162 | Best MCC: 0.4446
+Generation 163 | Best MCC: 0.4446
+Generation 164 | Best MCC: 0.4446
+Generation 165 | Best MCC: 0.4446
+Generation 166 | Best MCC: 0.4446
+Generation 167 | Best MCC: 0.4446
+Generation 168 | Best MCC: 0.4446
+Generation 169 | Best MCC: 0.4446
+Generation 170 | Best MCC: 0.4446
+Generation 171 | Best MCC: 0.4446
+Generation 172 | Best MCC: 0.4446
+Generation 173 | Best MCC: 0.4446
+Generation 174 | Best MCC: 0.4446
+Generation 175 | Best MCC: 0.4446
+Generation 176 | Best MCC: 0.4446
+Generation 177 | Best MCC: 0.4446
+Generation 178 | Best MCC: 0.4446
+Generation 179 | Best MCC: 0.4446
+Generation 180 | Best MCC: 0.4446
+Generation 181 | Best MCC: 0.4446
+Generation 182 | Best MCC: 0.4446
+Generation 183 | Best MCC: 0.4446
+Generation 184 | Best MCC: 0.4446
+Generation 185 | Best MCC: 0.4446
+Generation 186 | Best MCC: 0.4446
+Generation 187 | Best MCC: 0.4446
+Generation 188 | Best MCC: 0.4446
+Generation 189 | Best MCC: 0.4446
+Generation 190 | Best MCC: 0.4446
+Generation 191 | Best MCC: 0.4446
+Generation 192 | Best MCC: 0.4446
+Generation 193 | Best MCC: 0.4446
+Generation 194 | Best MCC: 0.4446
+Generation 195 | Best MCC: 0.4446
+Generation 196 | Best MCC: 0.4446
+Generation 197 | Best MCC: 0.4446
+Generation 198 | Best MCC: 0.4446
+Generation 199 | Best MCC: 0.4446
+Generation 200 | Best MCC: 0.4446
+
+Best individual:
+{'C': 581.8591309473157, 'gamma': 0.001322009212309931, 'feature_count': 10}
+
+Selected Features:
+10_ hsa-let-7g, 24_ hsa-mir-106b, 109_ hsa-mir-1271, 174_ hsa-mir-133a-1, 233_ hsa-mir-186, 504_ hsa-mir-3605, 506_ hsa-mir-3607, 1388_ hsa-mir-589, 1701_ hsa-mir-6874, 1864_ hsa-mir-937
+Feature count: 10
+
+Train Set Performance:
+Confusion Matrix:
+[[133  24]
+ [ 37  71]]
+Sensitivity: 0.66
+Specificity: 0.85
+Accuracy: 0.77
+MCC: 0.52
+
+Test Set Performance:
+Confusion Matrix:
+[[32  7]
+ [21 28]]
+Sensitivity: 0.57
+Specificity: 0.82
+Accuracy: 0.68
+MCC: 0.40
+
+Support Vector Count:
+Class 0: 89
+Class 1: 86
+Total: 175
