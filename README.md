@@ -1,14 +1,14 @@
 # TargetPrior
-This repository contains the source code and analysis scripts for the publication: "TargetPrior: A Generalizable miRNA-Signature Embedded Evolutionary Learning Framework for Prioritizing Drug Targets: A Case Study in Acute Myeloid Leukemia".
+This repository contains the source code and analysis scripts for the publication: "TargetPrior: A miRNA-Signature Embedded Evolutionary Learning Framework for Prioritizing Drug Targets in Acute Myeloid Leukemia".
 
 The framework includes data preprocessing, evolutionary learning-based feature selection, survival analysis, and network visualization.
 
 Contact: For feedback or feature requests, please contact the author: Shinn-Ying Ho (syho@nycu.edu.tw)
 
 ## Citation
-If you use ELCDT-AML in your research, please acknowledge it by citing:
+If you use TargetPrior in your research, please acknowledge it by citing:
 
-> TargetPrior: A Generalizable miRNA-Signature Embedded Evolutionary Learning Framework for Prioritizing Drug Targets: A Case Study in Acute Myeloid Leukemia
+> TargetPrior: A miRNA-Signature Embedded Evolutionary Learning Framework for Prioritizing Drug Targets in Acute Myeloid Leukemia
 
 ## Key Capabilities
 TargetPrior is designed to overcome the "curse of dimensionality" in multi-omics data. Key features include:
@@ -169,4 +169,5 @@ Contains network graphs refined using machine learning signatures.
 
 `miRNA_DEG_drug_network.cys`: Cytoscape network file using network.xlsx as input.
 Visualizes miRNA, genes, Log2FC, membrane proteins, transcription factors, and platinum resistance info.
+
 Gene correlations are imported via STRING.
